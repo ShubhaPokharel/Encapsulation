@@ -27,7 +27,7 @@ It is a grouping mechanism that hides the data of a class. So, other classes can
 
  Read Only means -------->>> getter method
 
- Write Only  means ------->>> setter ethod
+ Write Only  means ------->>> setter method
 
 ## There are two ways to initialize the data in java.
 ### 1. Constructors
