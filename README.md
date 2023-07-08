@@ -21,10 +21,14 @@ It is a grouping mechanism that hides the data of a class. So, other classes can
 
 “Initialization is when we put a value in a variable, this happens while we declare a variable. “
 
-Example: 
-int x = 7; 
+Example:
+
+int x = 7;
+
 String myName = "Emi"; 
+
 Boolean myCondition = false;
+
 
 Note: “You can encapsulate fields and methods inside a single class”.
 
