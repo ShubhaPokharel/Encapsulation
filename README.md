@@ -9,7 +9,7 @@ Similarly, a Java class is a good  example of encapsulation because we write eve
 
 In other words, encapsulation is a binding the class members (variables and methods) together and preventing them from being accessed by other classes.
 
-Thereby, we can keep variables and methods safes from outside interference and misuse.
+Therefore, we can keep variables and methods safes from any misuse from outside.
 
 Mobile is a good example of encapsulation. It has many apps and features inside it. And overall it is a phone.
 
