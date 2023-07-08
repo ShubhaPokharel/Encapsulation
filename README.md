@@ -25,6 +25,10 @@ It is a grouping mechanism that hides the data of a class. So, other classes can
 
  We can not directly read and set the values of private variables/fields, Java will provide us with getter and setter methods for their accessibility outside the class.
 
+ Read Only means -------->>> getter method
+
+ Write Only  means ------->>> setter ethod
+
 ## There are two ways to initialize the data in java.
 ### 1. Constructors
 ### 2. Setter methods 
@@ -60,7 +64,7 @@ There are two golden rules to remember about encapsulation in Java:
 1. Declare all the variables as private
 2. Write public getter and setter methods to access these variables
 
-Also, data hiding and data encapsulation are interchangeably used in most cases but are different.
+##Also, data hiding and data encapsulation are interchangeably used in most cases but are different. Data hiding is when data is always private. Encapsulation has data that can be public or private data.
 
 
 ## What is the difference between abstraction and encapsulation?
@@ -72,7 +76,7 @@ Abstraction is hiding implementation.
 
 ______________________
 
-Data hiding is when data is always private. Encapsulation has data that can be public or private data.
+
 
 
 
