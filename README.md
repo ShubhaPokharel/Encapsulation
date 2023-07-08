@@ -5,7 +5,7 @@
 Encapsulation is one of the OOPS concepts in Java. It is wrapping the code or methods(properties) and the fields or variables together as a single unit. 
 
 We can visualize it like a medicine capsule inside which there are multiple components existing like fields and methods of a java class.
-Similarly, a Java class is a good  example of encapsulation because we write everything(variables, methods, constructors, etc) within the class that binds all of them together and hides them from other classes.
+Similarly, a Java class is a good  example of encapsulation because we write everything(variables, methods, constructors, etc) within the class that binds all of them together.
 
 In other words, encapsulation is a binding the class members (variables and methods) together and preventing them from being accessed by other classes.
 
