@@ -12,6 +12,8 @@ In other words, encapsulation is a binding the class members (variables and meth
 Thereby, we can keep variables and methods safes from outside interference and misuse.
 
 Mobile is a good example of encapsulation. It has many apps and features inside it. And overall it is a phone.
+
+
 Another example of encapsulation is Momo(dumpling) wrapper inside which there are multiple components binded by wrapper.
 
 It is a grouping mechanism that hides the data of a class. So, other classes can not access it. It is a protected shield that prevents the data from being accessed by the code outside the shield.  To encapsulate the data, we declare the variables as a private variable inside the class. Those private variables can only be accessed only with in the class. To allow the other classes to access the private variables, we need to modify into” public getter and setter methods“. Encapsulation is also known as data hiding or tightly encapsulation.
